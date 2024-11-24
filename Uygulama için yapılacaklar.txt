@@ -1,0 +1,5 @@
+
+-firebase kurulumu
+-Todo kartlarındaki bilgilerin db ye iletilmesi 9:00-13:00
+-Kullanıcı şifre kullanıcı adlarının kontrolü ve db ye iletilmesi 13:30-17:15
+ 18/09/24

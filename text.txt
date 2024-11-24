@@ -1,0 +1,9 @@
+const firebaseConfig = {
+    apiKey: "AIzaSyDgIACcbqhiu8dm3r2xSl6fApzR7wGEFuc",
+    authDomain: "todoapp-21dd2.firebaseapp.com",
+    projectId: "todoapp-21dd2",
+    storageBucket: "todoapp-21dd2.appspot.com",
+    messagingSenderId: "433093090353",
+    appId: "1:433093090353:web:0b6a0528427aa7465a4910",
+    measurementId: "G-TTKE8WB13H"
+  };
