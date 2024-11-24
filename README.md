@@ -35,4 +35,6 @@ Create new project at https://console.firebase.google.com, used ``Firebase/Fires
 
 <img src="https://github.com/AliArslan44/React-Native-Todo-App/blob/main/screenshots/Screenshot_20241122-214739_TodoApp.jpg?raw=true" width="400"/>
 <img src="https://github.com/AliArslan44/React-Native-Todo-App/blob/main/screenshots/Screenshot_20241122-214746_TodoApp.jpg?raw=true" width="400"/>
+<img src="https://github.com/AliArslan44/React-Native-Todo-App/blob/main/screenshots/Screenshot_20241122-214851_TodoApp.jpg?raw=true" width="400"/>
+<img src="https://github.com/AliArslan44/React-Native-Todo-App/blob/main/screenshots/Screenshot_20241122-214746_TodoApp.jpg?raw=true" width="400"/>
 
