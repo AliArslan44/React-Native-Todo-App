@@ -31,7 +31,7 @@ Create new project at https://console.firebase.google.com, used ``Firebase/Fires
     "react-native-web": "~0.19.10"
   },
 ```
-## Screenshots at Application
+## Screenshots from Application
 
 <img src="https://i.ibb.co/m6Y2dM6/Screenshot-20241122-214739-Todo-App.jpg" width="400"/>
 
