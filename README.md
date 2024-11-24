@@ -31,6 +31,10 @@ Create new project at https://console.firebase.google.com, used ``Firebase/Fires
     "react-native-web": "~0.19.10"
   },
 ```
+## explanation
+
+
+The application works as follows; first it asks for login or signup and saves them to the database, then on the home screen it shows your todo cards if you have any, on the create screen it asks for a sentence, address and time for the event, when you click the create button this card is saved to your device with AsyncStorage, the reason we do this is to prevent users from straining the database.
 ## Screenshots from Application
 
 <img src="https://github.com/AliArslan44/React-Native-Todo-App/blob/main/screenshots/Screenshot_20241122-214739_TodoApp.jpg?raw=true" width="400"/>
