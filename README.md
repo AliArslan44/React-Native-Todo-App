@@ -31,9 +31,7 @@ Create new project at https://console.firebase.google.com, used ``Firebase/Fires
     "react-native-web": "~0.19.10"
   },
 ```
-```
-npm install --save @emailjs/browser
-```
+
 ## explanation
 
 
